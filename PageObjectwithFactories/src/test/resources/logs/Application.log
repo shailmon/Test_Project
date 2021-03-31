@@ -1,0 +1,8 @@
+31/03/2021 22:14:54 devpinoyLogger Launching Chrome Browser for Test
+31/03/2021 22:15:00 devpinoyLogger Clicking on an Element : Proxy element for: DefaultElementLocator 'By.xpath: //button[text()='?']'
+31/03/2021 22:15:02 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (3a90d2c96220d74e7e164664d720b9d9)] -> name: q] entered value as : Apple iphone
+31/03/2021 22:15:04 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on XP (3a90d2c96220d74e7e164664d720b9d9)] -> xpath: //*[@type='submit']]
+31/03/2021 22:15:06 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on XP (3a90d2c96220d74e7e164664d720b9d9)] -> xpath: //*[@type='submit']]
+31/03/2021 22:15:09 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on XP (3a90d2c96220d74e7e164664d720b9d9)] -> xpath: //div[@data-id]/div[@data-tkid]/a]
+31/03/2021 22:15:18 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (3a90d2c96220d74e7e164664d720b9d9)] -> id: twotabsearchtextbox] entered value as : APPLE iPhone 11 (White, 64 GB)
+31/03/2021 22:15:22 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on XP (3a90d2c96220d74e7e164664d720b9d9)] -> id: nav-search-submit-button]
